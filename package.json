@@ -1,0 +1,24 @@
+{
+  "name": "assignment-3---task-manager-kami-m",
+  "version": "1.0.0",
+  "description": "HW 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSE-264-SPRING23/assignment-3---task-manager-kami-m.git"
+  },
+  "author": "Kamilla Muminova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSE-264-SPRING23/assignment-3---task-manager-kami-m/issues"
+  },
+  "homepage": "https://github.com/CSE-264-SPRING23/assignment-3---task-manager-kami-m#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
